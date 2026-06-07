@@ -80,23 +80,6 @@ npm run build
 npm run preview
 ```
 
-## Estrutura de Arquivos
-
-```
-├── src/
-│   ├── services/
-│   │   └── api.js          # Configuração do Axios e requisições
-│   ├── app.jsx             # Componente principal com CRUD completo
-│   ├── main.jsx            # Entry point do React
-│   └── index.css           # Estilos globais
-├── public/
-├── index.html
-├── vite.config.js
-├── vercel.json             # Configuração para deploy na Vercel
-├── .env                    # Variáveis de ambiente
-└── package.json
-```
-
 ## Tecnologias
 
 - **React.js** - Framework frontend
