@@ -14,8 +14,8 @@ O projeto utiliza as seguintes variáveis de ambiente:
 
 | Variável | Valor |
 |----------|-------|
-| `VITE_API_URL` | `https://www.minhacipa.com.br/_fatec/painel-cafeteria/api/produto` |
-| `VITE_API_TOKEN` | `ecb93886a065374573d5f5146459e5df69a8bd5c0fcaf203ce78b08cd5e8220a` |
+| `VITE_API_URL` | `url` |
+| `VITE_API_TOKEN` | `token` |
 
 ## Status das Funcionalidades
 
