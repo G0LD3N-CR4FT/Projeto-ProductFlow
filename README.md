@@ -86,4 +86,8 @@ npm run preview
 - **Vite** - Build tool
 - **Axios** - Cliente HTTP
 - **Ant Design** - Biblioteca de componentes UI
+- **Snackbar** - Notificações do sistema
 - **Vercel** - Plataforma de deploy
+
+## Link Vercel
+- https://projeto-product-flow.vercel.app
