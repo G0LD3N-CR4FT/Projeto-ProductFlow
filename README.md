@@ -23,17 +23,16 @@ O projeto utiliza as seguintes variáveis de ambiente:
 |----------------|--------|
 | Listar todos os produtos | Integralmente funcional |
 | Cadastrar novo produto | Integralmente funcional |
-| Editar produto existente | Integralmente funcional |
 | Excluir produto | Integralmente funcional |
 | Busca de produtos | Integralmente funcional |
 | Validação de formulários | Integralmente funcional |
-| Feedback de operações (notifications) | Integralmente funcional |
+| Feedback de operações (notificações) | Integralmente funcional |
 | Confirmação de exclusão (Popconfirm) | Integralmente funcional |
 | Loading states (Spin) | Integralmente funcional |
 | Exibição em Cards | Integralmente funcional |
 | Formatação de preços (R$) | Integralmente funcional |
 | Mapeamento de categorias | Integralmente funcional |
-| Implantação Vercel (vercel.json) | Integralmente funcional |
+| Implantação Vercel | Integralmente funcional |
 
 ## API Endpoints
 
