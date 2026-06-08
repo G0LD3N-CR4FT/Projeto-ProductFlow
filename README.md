@@ -5,7 +5,7 @@ Sistema de gerenciamento de produtos (CRUD) para cafeteria, desenvolvido com Rea
 ## Token Utilizado
 
 ```
-ecb93886a065374573d5f5146459e5df69a8bd5c0fcaf203ce78b08cd5e8220a
+token
 ```
 
 ## Variáveis de Ambiente
