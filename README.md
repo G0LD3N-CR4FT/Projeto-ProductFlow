@@ -2,12 +2,6 @@
 
 Sistema de gerenciamento de produtos (CRUD) para cafeteria, desenvolvido com React.js, Vite, Axios e Ant Design.
 
-## Token Utilizado
-
-```
-token
-```
-
 ## Variáveis de Ambiente
 
 O projeto utiliza as seguintes variáveis de ambiente:
